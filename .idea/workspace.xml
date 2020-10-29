@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6715a757-ce29-427c-9a01-36b8c75b17f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="hadoop-2.6" />
+        <option value="hive-provided" />
+        <option value="yarn" />
+        <option value="hive" />
+        <option value="scala-2.11" />
+        <option value="hadoop-provided" />
+        <option value="hive-thriftserver" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jS8AkZ5d4rK86CH37SZidLD3NM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6715a757-ce29-427c-9a01-36b8c75b17f4" name="Default Changelist" comment="" />
+      <created>1603785991414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603785991414</updated>
+      <workItem from="1603785992633" duration="76000" />
+      <workItem from="1603786085373" duration="2479000" />
+      <workItem from="1603851704594" duration="5160000" />
+      <workItem from="1603857415251" duration="883000" />
+      <workItem from="1603863608792" duration="7744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1442" y="393" key="#Inspections" timestamp="1603864521895">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1442" y="393" key="#Inspections/-1680.413.1680.1027/0.23.2560.1371@0.23.2560.1371" timestamp="1603864521895" />
+    <state x="1351" y="625" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1603786322692">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1351" y="625" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/-1680.413.1680.1027/0.23.2560.1371@0.23.2560.1371" timestamp="1603786322692" />
+    <state x="1110" y="347" key="SettingsEditor" timestamp="1603864451859">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1110" y="347" key="SettingsEditor/-1680.413.1680.1027/0.23.2560.1371@0.23.2560.1371" timestamp="1603864451859" />
+    <state x="1516" y="447" width="709" height="522" key="find.popup" timestamp="1603872948491">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1516" y="447" width="709" height="522" key="find.popup/-1680.413.1680.1027/0.23.2560.1371@0.23.2560.1371" timestamp="1603872948491" />
+    <state x="1266" y="336" width="670" height="676" key="search.everywhere.popup" timestamp="1603872928357">
+      <screen x="0" y="23" width="2560" height="1371" />
+    </state>
+    <state x="1266" y="336" width="670" height="676" key="search.everywhere.popup/-1680.413.1680.1027/0.23.2560.1371@0.23.2560.1371" timestamp="1603872928357" />
+  </component>
+</project>
